@@ -1,8 +1,8 @@
 require("@nomiclabs/hardhat-ethers");
 require("@nomiclabs/hardhat-waffle");
 
-var INFURA_KEY = "464cd65da94c48ad847f8248e7a8ff61";
-const mnemonic = "common choose choose ticket switch hungry year series length analyst trophy library";
+var INFURA_KEY = "YOUR INFURE ACCOUNT KEY";
+const mnemonic = "YOUR WALLET MNEMONIC";
 
 module.exports = {
   solidity: "0.8.4",
